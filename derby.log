@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Fri Mar 07 00:14:33 EET 2014:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0144-9976-55b4-000002eab238 
+Sat Mar 08 15:43:29 EET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0144-a1ef-2aca-000002eb8628 
 on database directory /Users/mahami/workspace/intellij/embedded-db/MK with class loader sun.misc.Launcher$AppClassLoader@530f243b 
 Loaded from file:/Users/mahami/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
 java.vendor=Oracle Corporation

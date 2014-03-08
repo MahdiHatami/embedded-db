@@ -8,9 +8,8 @@ public class Main {
     public static void main(String[] args) throws ClassNotFoundException {
         Class.forName(DriVER);
         try {
-            Connection conn = DriverManager.getConnection(JDBC_URL);
-            conn.createStatement().execute("create table users(name varchar (22), email varchar (50))");
-            System.out.println("yuhhu");
+            DriverManager.getConnection(JDBC_URL).createStatement().execute("create table addresses(address varchar (22))");
+            System.out.println("yeah");
         } catch (SQLException e) {
             e.printStackTrace();
         }
